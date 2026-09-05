@@ -1,0 +1,11 @@
+ol{
+  background-color: red;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+#root > div > div:last-of-type
+{ text-align: center; }
